@@ -1,0 +1,12 @@
+.centering {
+    margin: auto;
+}
+
+.form, .result {
+    width: 300px;
+    margin-top: 20vh;
+}
+
+button {
+    float: right;
+}
